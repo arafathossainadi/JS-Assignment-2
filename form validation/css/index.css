@@ -1,0 +1,19 @@
+body{
+	background:url(../images/bg.jpg);
+	-webkit-background-size: cover;
+	     -o-background-size: cover;
+	        background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+}
+
+form{
+	margin: 0 auto;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	display: block;
+	transform: translate(-50%,-50%);
+	font-size: 30px;
+}

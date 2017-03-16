@@ -1,0 +1,20 @@
+@font-face {
+	font-family:tre;
+	src:url(../fonts/tre.ttf);
+}
+
+body{
+	background:url(../images/bg.jpg);
+	background-position: center center;
+	background-repeat:  no-repeat;
+	background-attachment: fixed;
+	background-size:  cover;
+	position: relative;
+}
+
+h1{
+	font-family: tre;
+ 	text-align: center;
+ 	color: black;
+    margin-top: 20%;
+}
